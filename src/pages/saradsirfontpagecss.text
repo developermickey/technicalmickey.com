@@ -1,0 +1,68 @@
+
+
+@font-face {
+    font-family: "Avenir-Medium";
+    src: url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.eot");
+    src: url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2090551770be22b09600a40b0b4673b7.svg#Avenir-Medium")format("svg");
+}
+
+
+.page-id-89 html.hn-new .card__item_description_title a {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .card__item_description p {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new h4 {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .card__item_description .btn {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .stats .section__title {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new p {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .stats__item_value {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .stats__content_footer {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .advantages .advantage__item_title {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .events__area_title {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .events_area_slider .slideitem .info_card_global_link {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .info__card .transaction-amount {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .info__card .transaction-title {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .info__card .transaction-info {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .info__card .transaction-date {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 .info__card .transaction-link {
+    font-family: "Avenir-Medium";
+}
+.page-id-89 html.hn-new .hero .section__title span {
+    font-family: "Avenir-Medium";
+}
+
+.page-id-89 html.hn-new .hero .section__title {
+    font-family: "Avenir-Medium";
+}

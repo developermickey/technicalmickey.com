@@ -1,0 +1,7 @@
+#nav .stretched {
+    font-feature-settings: "liga";
+}
+.stretched {
+    font-family: "stretch";
+    font-feature-settings: "liga";
+}
